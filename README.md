@@ -1,5 +1,5 @@
 # NodeMcu
-NodeMcu use  lua code to resevole u lot problem
+NodeMcu use  lua code to resolve u lot problem
 
 fit for  nodemuc 0.9.5
 
